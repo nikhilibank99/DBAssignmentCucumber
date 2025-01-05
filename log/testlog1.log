@@ -1,0 +1,185 @@
+2025-01-05 21:08:37,259 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 21:08:49,694 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 21:15:26,102 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 21:16:18,730 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 21:22:28,689 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 21:22:36,635 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 21:26:35,722 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 21:26:49,208 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 21:30:02,359 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 21:31:05,706 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 21:33:33,591 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 21:34:30,327 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 21:38:20,611 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 21:39:14,046 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 21:42:24,374 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 21:43:11,516 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 21:45:18,509 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 21:45:30,232 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 21:45:46,497 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 22:09:06,135 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 22:09:50,946 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 22:10:06,341 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 22:10:06,382 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 22:18:26,414 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 22:18:41,118 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 22:18:56,760 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 22:18:56,993 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 22:27:45,187 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 22:27:59,370 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 22:28:14,970 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 22:28:15,130 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 22:28:15,963 [main] INFO stepDefinitions.HomePageSteps - searchIcon is displayed
+2025-01-05 22:28:16,702 [main] INFO stepDefinitions.HomePageSteps - $$$Browser Closed$$$
+2025-01-05 22:32:16,252 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 22:32:24,884 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 22:32:41,022 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 22:32:41,264 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 22:32:42,389 [main] INFO stepDefinitions.HomePageSteps - searchIcon is displayed
+2025-01-05 22:32:43,502 [main] INFO stepDefinitions.HomePageSteps - $$$Browser Closed$$$
+2025-01-05 22:33:21,597 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 22:33:34,002 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 22:33:49,545 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 22:33:49,700 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 22:33:50,498 [main] INFO stepDefinitions.HomePageSteps - searchIcon is displayed
+2025-01-05 22:33:51,991 [main] INFO stepDefinitions.HomePageSteps - $$$Browser Closed$$$
+2025-01-05 22:40:23,141 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 22:40:24,308 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 22:40:46,613 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 22:40:46,797 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 22:40:48,377 [main] INFO stepDefinitions.HomePageSteps - searchIcon is displayed
+2025-01-05 22:40:50,383 [main] INFO stepDefinitions.HomePageSteps - $$$Browser Closed$$$
+2025-01-05 22:42:21,362 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 22:43:10,009 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 22:43:26,408 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 22:43:26,751 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 22:43:27,775 [main] INFO stepDefinitions.HomePageSteps - searchIcon is displayed
+2025-01-05 22:43:29,579 [main] INFO stepDefinitions.HomePageSteps - $$$Browser Closed$$$
+2025-01-05 23:14:11,881 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 23:14:24,937 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 23:14:40,546 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 23:14:40,762 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 23:14:40,952 [main] INFO stepDefinitions.HomePageSteps - Live Scores Link is displayed
+2025-01-05 23:14:41,047 [main] INFO stepDefinitions.HomePageSteps - Series Link is displayed
+2025-01-05 23:14:41,170 [main] INFO stepDefinitions.HomePageSteps - News Link is displayed
+2025-01-05 23:14:41,273 [main] INFO stepDefinitions.HomePageSteps - Feautures Link is displayed
+2025-01-05 23:14:41,368 [main] INFO stepDefinitions.HomePageSteps - Videos Link is displayed
+2025-01-05 23:14:41,504 [main] INFO stepDefinitions.HomePageSteps - Stats Link is displayed
+2025-01-05 23:14:41,646 [main] INFO stepDefinitions.HomePageSteps - Edition IN is displayed
+2025-01-05 23:14:41,806 [main] INFO stepDefinitions.HomePageSteps - Translate Icon is displayed
+2025-01-05 23:14:41,895 [main] INFO stepDefinitions.HomePageSteps - Dark Mode Icon is displayed
+2025-01-05 23:14:41,978 [main] INFO stepDefinitions.HomePageSteps - Apps Icon is displayed
+2025-01-05 23:14:42,061 [main] INFO stepDefinitions.HomePageSteps - Search Icon is displayed
+2025-01-05 23:14:44,770 [main] INFO stepDefinitions.HomePageSteps - $$$Browser Closed$$$
+2025-01-05 23:18:24,305 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 23:18:37,012 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 23:18:52,620 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 23:18:52,845 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 23:18:53,018 [main] INFO stepDefinitions.HomePageSteps - Live Scores Link is displayed
+2025-01-05 23:18:53,129 [main] INFO stepDefinitions.HomePageSteps - Series Link is displayed
+2025-01-05 23:18:53,224 [main] INFO stepDefinitions.HomePageSteps - News Link is displayed
+2025-01-05 23:18:53,300 [main] INFO stepDefinitions.HomePageSteps - Feautures Link is displayed
+2025-01-05 23:18:53,398 [main] INFO stepDefinitions.HomePageSteps - Videos Link is displayed
+2025-01-05 23:18:53,499 [main] INFO stepDefinitions.HomePageSteps - Stats Link is displayed
+2025-01-05 23:18:53,624 [main] INFO stepDefinitions.HomePageSteps - Edition IN is displayed
+2025-01-05 23:18:53,740 [main] INFO stepDefinitions.HomePageSteps - Translate Icon is displayed
+2025-01-05 23:18:53,910 [main] INFO stepDefinitions.HomePageSteps - Dark Mode Icon is displayed
+2025-01-05 23:18:53,997 [main] INFO stepDefinitions.HomePageSteps - Apps Icon is displayed
+2025-01-05 23:18:54,067 [main] INFO stepDefinitions.HomePageSteps - Search Icon is displayed
+2025-01-05 23:18:56,284 [main] INFO stepDefinitions.HomePageSteps - $$$Browser Closed$$$
+2025-01-05 23:22:57,476 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 23:23:11,524 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 23:23:28,984 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 23:23:29,119 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 23:23:29,245 [main] INFO stepDefinitions.HomePageSteps - Live Scores Link is displayed
+2025-01-05 23:23:29,361 [main] INFO stepDefinitions.HomePageSteps - Series Link is displayed
+2025-01-05 23:23:29,467 [main] INFO stepDefinitions.HomePageSteps - News Link is displayed
+2025-01-05 23:23:29,546 [main] INFO stepDefinitions.HomePageSteps - Feautures Link is displayed
+2025-01-05 23:23:29,635 [main] INFO stepDefinitions.HomePageSteps - Videos Link is displayed
+2025-01-05 23:23:29,748 [main] INFO stepDefinitions.HomePageSteps - Stats Link is displayed
+2025-01-05 23:23:29,849 [main] INFO stepDefinitions.HomePageSteps - Edition IN is displayed
+2025-01-05 23:23:29,949 [main] INFO stepDefinitions.HomePageSteps - Translate Icon is displayed
+2025-01-05 23:23:30,046 [main] INFO stepDefinitions.HomePageSteps - Dark Mode Icon is displayed
+2025-01-05 23:23:30,149 [main] INFO stepDefinitions.HomePageSteps - Apps Icon is displayed
+2025-01-05 23:23:30,239 [main] INFO stepDefinitions.HomePageSteps - Search Icon is displayed
+2025-01-05 23:23:31,517 [main] INFO stepDefinitions.HomePageSteps - $$$Browser Closed$$$
+2025-01-05 23:24:12,710 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 23:24:20,279 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 23:24:36,389 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 23:24:36,598 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 23:24:36,895 [main] INFO stepDefinitions.HomePageSteps - Live Scores Link is displayed
+2025-01-05 23:24:37,089 [main] INFO stepDefinitions.HomePageSteps - Series Link is displayed
+2025-01-05 23:24:37,268 [main] INFO stepDefinitions.HomePageSteps - News Link is displayed
+2025-01-05 23:24:37,401 [main] INFO stepDefinitions.HomePageSteps - Feautures Link is displayed
+2025-01-05 23:24:37,513 [main] INFO stepDefinitions.HomePageSteps - Videos Link is displayed
+2025-01-05 23:24:37,629 [main] INFO stepDefinitions.HomePageSteps - Stats Link is displayed
+2025-01-05 23:24:37,897 [main] INFO stepDefinitions.HomePageSteps - Edition IN is displayed
+2025-01-05 23:24:38,036 [main] INFO stepDefinitions.HomePageSteps - Translate Icon is displayed
+2025-01-05 23:24:38,181 [main] INFO stepDefinitions.HomePageSteps - Dark Mode Icon is displayed
+2025-01-05 23:24:38,274 [main] INFO stepDefinitions.HomePageSteps - Apps Icon is displayed
+2025-01-05 23:24:38,355 [main] INFO stepDefinitions.HomePageSteps - Search Icon is displayed
+2025-01-05 23:24:40,387 [main] INFO stepDefinitions.HomePageSteps - $$$Browser Closed$$$
+2025-01-05 23:26:32,074 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 23:26:45,890 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 23:27:01,464 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 23:27:01,594 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 23:27:01,661 [main] INFO stepDefinitions.HomePageSteps - Live Scores Link is displayed
+2025-01-05 23:27:01,777 [main] INFO stepDefinitions.HomePageSteps - Series Link is displayed
+2025-01-05 23:27:01,890 [main] INFO stepDefinitions.HomePageSteps - News Link is displayed
+2025-01-05 23:27:02,001 [main] INFO stepDefinitions.HomePageSteps - Feautures Link is displayed
+2025-01-05 23:27:02,105 [main] INFO stepDefinitions.HomePageSteps - Videos Link is displayed
+2025-01-05 23:27:02,175 [main] INFO stepDefinitions.HomePageSteps - Stats Link is displayed
+2025-01-05 23:27:02,232 [main] INFO stepDefinitions.HomePageSteps - Edition IN is displayed
+2025-01-05 23:27:02,312 [main] INFO stepDefinitions.HomePageSteps - Translate Icon is displayed
+2025-01-05 23:27:02,374 [main] INFO stepDefinitions.HomePageSteps - Dark Mode Icon is displayed
+2025-01-05 23:27:02,463 [main] INFO stepDefinitions.HomePageSteps - Apps Icon is displayed
+2025-01-05 23:27:02,528 [main] INFO stepDefinitions.HomePageSteps - Search Icon is displayed
+2025-01-05 23:27:04,567 [main] INFO stepDefinitions.HomePageSteps - $$$Browser Closed$$$
+2025-01-05 23:30:01,803 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 23:30:10,461 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 23:30:25,966 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 23:30:26,181 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 23:30:26,289 [main] INFO stepDefinitions.HomePageSteps - Live Scores Link is displayed
+2025-01-05 23:30:26,393 [main] INFO stepDefinitions.HomePageSteps - Series Link is displayed
+2025-01-05 23:30:26,476 [main] INFO stepDefinitions.HomePageSteps - News Link is displayed
+2025-01-05 23:30:26,556 [main] INFO stepDefinitions.HomePageSteps - Feautures Link is displayed
+2025-01-05 23:30:26,640 [main] INFO stepDefinitions.HomePageSteps - Videos Link is displayed
+2025-01-05 23:30:26,705 [main] INFO stepDefinitions.HomePageSteps - Stats Link is displayed
+2025-01-05 23:30:26,789 [main] INFO stepDefinitions.HomePageSteps - Edition IN is displayed
+2025-01-05 23:30:26,874 [main] INFO stepDefinitions.HomePageSteps - Translate Icon is displayed
+2025-01-05 23:30:26,954 [main] INFO stepDefinitions.HomePageSteps - Dark Mode Icon is displayed
+2025-01-05 23:30:27,042 [main] INFO stepDefinitions.HomePageSteps - Apps Icon is displayed
+2025-01-05 23:30:27,100 [main] INFO stepDefinitions.HomePageSteps - Search Icon is displayed
+2025-01-05 23:30:29,160 [main] INFO stepDefinitions.HomePageSteps - $$$Browser Closed$$$
+2025-01-05 23:32:41,099 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 23:32:52,639 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 23:33:08,249 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 23:33:08,406 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 23:33:08,491 [main] INFO stepDefinitions.HomePageSteps - Live Scores Link is displayed
+2025-01-05 23:33:08,588 [main] INFO stepDefinitions.HomePageSteps - Series Link is displayed
+2025-01-05 23:33:08,677 [main] INFO stepDefinitions.HomePageSteps - News Link is displayed
+2025-01-05 23:33:08,750 [main] INFO stepDefinitions.HomePageSteps - Feautures Link is displayed
+2025-01-05 23:33:08,821 [main] INFO stepDefinitions.HomePageSteps - Videos Link is displayed
+2025-01-05 23:33:08,910 [main] INFO stepDefinitions.HomePageSteps - Stats Link is displayed
+2025-01-05 23:33:08,982 [main] INFO stepDefinitions.HomePageSteps - Edition IN is displayed
+2025-01-05 23:33:09,065 [main] INFO stepDefinitions.HomePageSteps - Translate Icon is displayed
+2025-01-05 23:33:09,133 [main] INFO stepDefinitions.HomePageSteps - Dark Mode Icon is displayed
+2025-01-05 23:33:09,202 [main] INFO stepDefinitions.HomePageSteps - Apps Icon is displayed
+2025-01-05 23:33:09,282 [main] INFO stepDefinitions.HomePageSteps - Search Icon is displayed
+2025-01-05 23:33:11,188 [main] INFO stepDefinitions.HomePageSteps - $$$Browser Closed$$$
+2025-01-05 23:34:53,526 [main] INFO stepDefinitions.HomePageSteps - ###Browser Launched###
+2025-01-05 23:35:05,189 [main] INFO stepDefinitions.HomePageSteps - ###Url Entered###
+2025-01-05 23:35:20,754 [main] INFO stepDefinitions.HomePageSteps - Page title Verified
+2025-01-05 23:35:20,904 [main] INFO stepDefinitions.HomePageSteps - logo is displayed
+2025-01-05 23:35:21,044 [main] INFO stepDefinitions.HomePageSteps - Live Scores Link is displayed
+2025-01-05 23:35:21,151 [main] INFO stepDefinitions.HomePageSteps - Series Link is displayed
+2025-01-05 23:35:21,262 [main] INFO stepDefinitions.HomePageSteps - News Link is displayed
+2025-01-05 23:35:21,347 [main] INFO stepDefinitions.HomePageSteps - Feautures Link is displayed
+2025-01-05 23:35:21,437 [main] INFO stepDefinitions.HomePageSteps - Videos Link is displayed
+2025-01-05 23:35:21,511 [main] INFO stepDefinitions.HomePageSteps - Stats Link is displayed
+2025-01-05 23:35:21,599 [main] INFO stepDefinitions.HomePageSteps - Edition IN is displayed
+2025-01-05 23:35:21,675 [main] INFO stepDefinitions.HomePageSteps - Translate Icon is displayed
+2025-01-05 23:35:21,751 [main] INFO stepDefinitions.HomePageSteps - Dark Mode Icon is displayed
+2025-01-05 23:35:21,822 [main] INFO stepDefinitions.HomePageSteps - Apps Icon is displayed
+2025-01-05 23:35:21,886 [main] INFO stepDefinitions.HomePageSteps - Search Icon is displayed
+2025-01-05 23:35:23,782 [main] INFO stepDefinitions.HomePageSteps - $$$Browser Closed$$$
