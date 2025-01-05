@@ -14,6 +14,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.testng.Assert;
 
 import io.cucumber.java.en.Given;
@@ -27,16 +29,41 @@ public class HomePageSteps {
 
 	private static final Logger log = Logger.getLogger(HomePageSteps.class);
     public static WebDriver driver;
-    ChromeOptions options;
+    ChromeOptions options_1;
+    FirefoxOptions options_2;
     public HomePage hp;
+    FileReader reader;
+    Properties prop;
 
     
-    @Given("I launch chrome browser")
-    public void i_launch_chrome_browser() throws IOException {
+    @Given("I launch browser")
+    public void i_launch_chrome_browser() throws FileNotFoundException,IOException {
+    	reader=new FileReader("C:\\Users\\246416\\eclipse-workspace\\DBAssignmentCucumber\\src\\test\\resources\\config\\config.properties");
+        prop = new Properties();
+        try{
+            prop.load(reader);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+        
+    	if(prop.getProperty("browser").equalsIgnoreCase("chrome")) {
     	WebDriverManager.chromedriver().setup();
-		options = new ChromeOptions();
-		options.addArguments("--remote-allow-origins=*");
-		driver=new ChromeDriver(options);
+		options_1 = new ChromeOptions();
+		options_1.addArguments("--remote-allow-origins=*");
+		driver=new ChromeDriver(options_1);
+		}
+    	else if (prop.getProperty("browser").equalsIgnoreCase("firefox"))
+    	{
+    		WebDriverManager.firefoxdriver().setup();
+    		options_2 = new FirefoxOptions();
+    		options_2.addArguments("--remote-allow-origins=*");
+    		driver = new FirefoxDriver(options_2);
+    		
+    	}
+    	else
+		{
+		System.out.println("Please define the correct browser");
+		}
         driver.manage().window().maximize();
         hp = new HomePage(driver);
         Properties props=new Properties();
@@ -47,14 +74,7 @@ public class HomePageSteps {
     }
 
         @When("I Entered Url")
-        public void i_entered_url() throws FileNotFoundException {
-            FileReader reader=new FileReader("C:\\Users\\246416\\eclipse-workspace\\DBAssignmentCucumber\\src\\test\\resources\\config\\config.properties");
-            Properties prop = new Properties();
-            try{
-                prop.load(reader);
-            } catch (IOException e) {
-                throw new RuntimeException(e);
-            }
+        public void i_entered_url() {
             driver.navigate().to(prop.getProperty("url"));
             log.info("###Url Entered###");
             long time = 2000;
