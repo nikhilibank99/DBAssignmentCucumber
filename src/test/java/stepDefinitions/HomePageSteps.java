@@ -38,7 +38,7 @@ public class HomePageSteps {
     
     @Given("I launch browser")
     public void i_launch_chrome_browser() throws FileNotFoundException,IOException {
-    	reader=new FileReader("C:\\Users\\246416\\eclipse-workspace\\DBAssignmentCucumber\\src\\test\\resources\\config\\config.properties");
+    	reader=new FileReader(System.getProperty("user.dir")+"\\src\\test\\resources\\config\\config.properties");
         prop = new Properties();
         try{
             prop.load(reader);
