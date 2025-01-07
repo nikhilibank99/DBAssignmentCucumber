@@ -26,7 +26,7 @@ public class HomePageSteps {
     Properties prop;
 
     @Given("I launch browser")
-    public void i_launch_chrome_browser() throws FileNotFoundException, IOException {
+    public void i_launch_browser() throws FileNotFoundException, IOException {
     	TestBase.openBrowser();
     	driver = TestBase.driver;
         hp = new HomePage(TestBase.driver);
@@ -55,8 +55,8 @@ public class HomePageSteps {
             log.info("Page title Verified");
         }
         
-        @Then("validate the header data")
-        public void validate_the_header_data() {
+        @Then("I validate the header data")
+        public void i_validate_the_header_data() {
         	hp.espnCricInfoImg();
         	log.info("logo is displayed");
         	hp.verifyLiveScoresLink();
@@ -86,7 +86,6 @@ public class HomePageSteps {
         @Then("I close browser")
     public void i_close_browser() {
         	TestBase.tearDown();
-//       	driver.quit();
         log.info("$$$Browser Closed$$$");
     }
 }
