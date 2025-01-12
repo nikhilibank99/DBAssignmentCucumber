@@ -21,7 +21,8 @@ public class TestBase {
     static FirefoxOptions options_2;
     static FileReader reader;
     public static Properties prop;
-    public static void openBrowser() throws FileNotFoundException,IOException {
+    
+    public static void openBrowser() throws FileNotFoundException {
 	reader=new FileReader(System.getProperty("user.dir")+"\\src\\test\\resources\\config\\config.properties");
     prop = new Properties();
     try{

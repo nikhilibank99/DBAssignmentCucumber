@@ -3,7 +3,10 @@
   <groupId>com.ntt</groupId>
   <artifactId>DBAssignmentCucumber</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <properties>
+     <maven.compiler.source>1.8</maven.compiler.source>
+     <maven.compiler.target>1.8</maven.compiler.target>
+</properties>
   
   <dependencies>
   	<dependency>
@@ -33,11 +36,6 @@
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.13.2</version>
-		</dependency>
-		<dependency>
-			<groupId>org.seleniumhq.selenium</groupId>
-			<artifactId>selenium-java</artifactId>
-			<version>4.25.0</version>
 		</dependency>
 		<dependency>
 			<groupId>io.github.bonigarcia</groupId>

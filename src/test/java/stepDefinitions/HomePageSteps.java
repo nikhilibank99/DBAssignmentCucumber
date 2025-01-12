@@ -12,9 +12,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import base.TestBase;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
+import io.cucumber.java.en.*;
 import pageobjects.HomePage;
 import stepDefinitions.HomePageSteps;
 
@@ -55,7 +53,7 @@ public class HomePageSteps {
             log.info("Page title Verified");
         }
         
-        @Then("I validate the header data")
+        @And("I validate the header data")
         public void i_validate_the_header_data() {
         	hp.espnCricInfoImg();
         	log.info("logo is displayed");

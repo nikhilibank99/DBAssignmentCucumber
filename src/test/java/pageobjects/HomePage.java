@@ -2,18 +2,10 @@ package pageobjects;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.CacheLookup;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.*;
 
 public class HomePage {
-public WebDriver ldriver;
-	
-	public HomePage(WebDriver rdriver)
-	{
-		ldriver=rdriver;
-		PageFactory.initElements(rdriver,this);
-	}
+
 	@FindBy(xpath="//a[text()='Live Scores']")
 	@CacheLookup
 	WebElement LiveScoresLnk;
@@ -62,7 +54,10 @@ public WebDriver ldriver;
 	@CacheLookup
 	WebElement Searchicon;
 	
-	
+	public HomePage(WebDriver driver)
+	{
+		PageFactory.initElements(driver,this);
+	}
 	
 	public void espnCricInfoImg() {
 		espnCricInfoLogo.isDisplayed();
@@ -112,7 +107,4 @@ public WebDriver ldriver;
 		Searchicon.isDisplayed();
 	}
 	
-	
-	
-
 }
