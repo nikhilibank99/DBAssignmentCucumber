@@ -8,51 +8,51 @@ public class HomePage {
 
 	@FindBy(xpath="//a[text()='Live Scores']")
 	@CacheLookup
-	WebElement LiveScoresLnk;
+	private WebElement LiveScoresLnk;
 	
 	@FindBy(xpath="//img[@alt='ESPNcricinfo']")
 	@CacheLookup
-	WebElement espnCricInfoLogo;
+	private WebElement espnCricInfoLogo;
 	
 	@FindBy(xpath="//a[text()='Series']")
 	@CacheLookup
-	WebElement Serieslnk;
+	private WebElement Serieslnk;
 	
 	@FindBy(xpath="//a[text()='News']")
 	@CacheLookup
-	WebElement Newslnk;
+	private WebElement Newslnk;
 	
 	@FindBy(xpath="//a[text()='Features']")
 	@CacheLookup
-	WebElement Featureslnk;
+	private WebElement Featureslnk;
 	
 	@FindBy(xpath="//a[text()='Videos']")
 	@CacheLookup
-	WebElement Videoslnk;
+	private WebElement Videoslnk;
 	
 	@FindBy(xpath="//a[text()='Stats']")
 	@CacheLookup
-	WebElement Statslnk;
+	private WebElement Statslnk;
 	
 	@FindBy(xpath="//div[text()='Edition IN']")
 	@CacheLookup
-	WebElement EditionINbtn;
+	private WebElement EditionINbtn;
 	
 	@FindBy(xpath="//i[@class='icon-translate ds-text-icon-inverse ds-mr-1']")
 	@CacheLookup
-	WebElement Translateicon;
+	private WebElement Translateicon;
 	
 	@FindBy(xpath="//i[@class='icon-dark_mode-filled ds-text-icon-inverse']")
 	@CacheLookup
-	WebElement DarkModeIcon;
+	private WebElement DarkModeIcon;
 	
 	@FindBy(xpath="//i[@class=\"icon-apps-filled ds-text-icon-inverse ci-nav-item ci-nav-hover ds-cursor-pointer\"]")
 	@CacheLookup
-	WebElement Appsicon;
+	private WebElement Appsicon;
 	
 	@FindBy(xpath="//i[@class='icon-search-outlined ds-text-icon-inverse ci-nav-item ci-nav-hover']")
 	@CacheLookup
-	WebElement Searchicon;
+	private WebElement Searchicon;
 	
 	public HomePage(WebDriver driver)
 	{

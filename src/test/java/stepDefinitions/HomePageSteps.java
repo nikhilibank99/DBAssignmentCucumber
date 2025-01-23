@@ -5,7 +5,6 @@ import java.time.Duration;
 import java.util.Properties;
 
 import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -29,19 +28,20 @@ public class HomePageSteps {
     	driver = TestBase.driver;
         hp = new HomePage(TestBase.driver);
         prop = TestBase.prop;
-        PropertyConfigurator.configure(prop);
         log.info("###Browser Launched###"); 
     }
 
         @When("I Entered Url")
-        public void i_entered_url() {
+        public void i_entered_url() throws InterruptedException {
         	driver.navigate().to(prop.getProperty("url"));
             log.info("###Url Entered###");
             long time = 2000;
             driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(time));
             WebElement poup= driver.findElement(By.xpath("//div[text()='Latest cricket updates']"));
+            Thread.sleep(2000);
             if(poup.isDisplayed()){
                 driver.findElement(By.xpath("//button[text()=\"Yes! I'm in\"]")).click();
+                log.info("clicked successfully on Yes! I'm in");
           }
 
         }
